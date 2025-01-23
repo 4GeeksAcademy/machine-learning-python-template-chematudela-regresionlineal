@@ -1,0 +1,1 @@
+El escalador úsalo para escalar la X. Es importante que ajuste el escalador con los datos de train y luego transformes los de train y test.
